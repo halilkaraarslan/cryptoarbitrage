@@ -1,0 +1,9 @@
+C:\Users\halil\OneDrive\Projeler\CryptoAnalyzer\BinanceArbitrage\bin\Debug\BinanceArbitrage.exe.config
+C:\Users\halil\OneDrive\Projeler\CryptoAnalyzer\BinanceArbitrage\bin\Debug\BinanceArbitrage.exe
+C:\Users\halil\OneDrive\Projeler\CryptoAnalyzer\BinanceArbitrage\bin\Debug\BinanceArbitrage.pdb
+C:\Users\halil\OneDrive\Projeler\CryptoAnalyzer\BinanceArbitrage\obj\Debug\BinanceArbitrage.csprojResolveAssemblyReference.cache
+C:\Users\halil\OneDrive\Projeler\CryptoAnalyzer\BinanceArbitrage\obj\Debug\BinanceArbitrage.Form1.resources
+C:\Users\halil\OneDrive\Projeler\CryptoAnalyzer\BinanceArbitrage\obj\Debug\BinanceArbitrage.Properties.Resources.resources
+C:\Users\halil\OneDrive\Projeler\CryptoAnalyzer\BinanceArbitrage\obj\Debug\BinanceArbitrage.csproj.GenerateResource.Cache
+C:\Users\halil\OneDrive\Projeler\CryptoAnalyzer\BinanceArbitrage\obj\Debug\BinanceArbitrage.exe
+C:\Users\halil\OneDrive\Projeler\CryptoAnalyzer\BinanceArbitrage\obj\Debug\BinanceArbitrage.pdb
